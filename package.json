@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-businesswire",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Business Wire MCP — press releases from Business Wire's all-news RSS feed.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-54ea3aaf1dcf9fa8b5cbaca7b9fe5dd56095f1d3cd666ff4a60cf17d17afdd96",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-dbedf832df1d8600d37e37007c1cd54084aeaf4dc9aa97c3acd3a061b9fc8361",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }

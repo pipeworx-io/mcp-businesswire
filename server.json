@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/businesswire",
   "title": "Businesswire",
   "description": "Business Wire MCP — press releases from Business Wire's all-news RSS feed.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/businesswire",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-businesswire",
