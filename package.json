@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-businesswire",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Business Wire MCP — press releases from Business Wire's all-news RSS feed.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "businesswire",
     "gatewaySlug": "businesswire",
-    "sourceHash": "v1-f7439a2fcf0b218a0226af82a58c1692663269861bdb8d563b82ed0e093026b1",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-bfa176ca54692f951a6b270944cf8e5bd50147a60a8e14db48f05a804933c181",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
